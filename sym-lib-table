@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name step-down-voltage-regulator-rescue)(type Legacy)(uri ${KIPRJMOD}/step-down-voltage-regulator-rescue.lib)(options "")(descr ""))
+  (lib (name gk-arduino)(type Legacy)(uri D:/Robo/Software/KiCad/gk-kicad-library/gk-symbols/gk-arduino.lib)(options "")(descr ""))
+  (lib (name gk-stm32-module)(type Legacy)(uri D:/Robo/Software/KiCad/gk-kicad-library/gk-symbols/gk-stm32-module.lib)(options "")(descr ""))
+  (lib (name gk-regulator)(type Legacy)(uri D:/Robo/Software/KiCad/gk-kicad-library/gk-symbols/gk-regulator.lib)(options "")(descr ""))
+)
